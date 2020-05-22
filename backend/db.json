@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Lenovo ThinkPad X1",
+      "price": 2899.99
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 2899.99
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi MI9",
+      "price": 1699.99
+    },
+    {
+      "id": 5,
+      "name": "NUX Cerberus",
+      "price": 1299.90
+    }
+  ],
+  "clients": [
+    {
+      "id":1,
+      "name":"João da Silva",
+      "age":20
+    },
+    {
+      "id": 2,
+      "name":"Maria da Silva",
+      "age": 18
+    },
+    {
+      "id":3,
+      "name":"Joaquim da Costa",
+      "age": 32
+    },
+    {
+      "id": 4,
+      "name":"Manoela da Costa",
+      "age": 28
+    }
+  ]
+}
